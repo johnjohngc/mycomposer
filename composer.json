@@ -1,0 +1,14 @@
+{
+    "name": "johnjohngc/mycomposer",
+    "description": "My first Composer project",
+    "authors": [
+        {
+            "name": "Your Name",
+            "email": "your@name.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
